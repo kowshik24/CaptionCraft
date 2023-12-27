@@ -14,9 +14,6 @@ CaptionCraft is an innovative 🚀 application that leverages AI 🤖 to generat
 📹 Demo and Screenshots
 👆 Click on the image above to view the demo video.
 👇 Scroll down for screenshots of the application.
-📹 Demo Video
-# add the video from the images folder
-
 📸 Screenshots
 Caption generation interface
 
