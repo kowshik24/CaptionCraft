@@ -1,6 +1,5 @@
 
 # 🌟 CaptionCraft: AI-Powered Image Caption Generator 📸
-
 ## 🌈 Overview
 
 CaptionCraft is an innovative 🚀 application that leverages AI 🤖 to generate captivating captions for images 🖼️. Designed for social media enthusiasts 📱, digital marketers 📊, and content creators 🎨, this tool offers a quick and efficient way to create engaging captions for platforms like Facebook 📘, Instagram 📸, LinkedIn 🔗, Twitter 🐦, and TikTok 🎵.
@@ -28,8 +27,8 @@ Caption generation interface
 |     **Sample Visualization 3**   |     **Sample Visualization 4**   |
 | ![Sample 5](images/sample_5.png) | ![Sample 6](images/sample_6.png) |
 |     **Sample Visualization 5**   |     **Sample Visualization 6**   |
-| ![Sample 7](images/sample_7.png) | ![Sample 8](images/sample_8.png) |
-|     **Sample Visualization 7**   |     **Sample Visualization 8**   |
+| ![Sample 7](images/sample_7.png) |  |
+|     **Sample Visualization 7**   |  |
 
 
 
