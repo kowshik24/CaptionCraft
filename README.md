@@ -4,6 +4,9 @@
 
 CaptionCraft is an innovative 🚀 application that leverages AI 🤖 to generate captivating captions for images 🖼️. Designed for social media enthusiasts 📱, digital marketers 📊, and content creators 🎨, this tool offers a quick and efficient way to create engaging captions for platforms like Facebook 📘, Instagram 📸, LinkedIn 🔗, Twitter 🐦, and TikTok 🎵.
 
+## Live Demo 🎥
+👉 [https://captioncraft-b7h9xotupkyi2xs64gxmo9.streamlit.app/](https://captioncraft-b7h9xotupkyi2xs64gxmo9.streamlit.app/)
+
 
 ## 🛠️ Features
 1. **📝 Platform-Specific Caption Generation:** Generate customized captions for different social media platforms with just a click.
